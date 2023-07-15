@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+  }
+  
+h1 {
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    background-size: cover;
+    font-weight: bolder;
+  }
+  
+#choices {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+#question{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 10px;
+}
+button{
+    margin-top: 20px;
+    margin-top: 20px;
+    background-color: #4CAF50; 
+    color: black; 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-right: 20px;
+    border-color: cadetblue;
+    border-width: 50px;
+}
+  
+#score {
+    margin-top: 20px;
+    font-weight: bolder;
+  }
